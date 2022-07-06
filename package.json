@@ -1,0 +1,14 @@
+{
+    "name": "hello-graph",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node src/hellograph.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.0.1",
+        "express": "4.17.1",
+        "node-fetch": "2.6.1",
+        "universal-cookie": "4.0.4"
+    }
+}
